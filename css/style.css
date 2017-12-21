@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Itim');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
+body {
+  margin: 0;
+  background: url("../img/christmas.jpg") no-repeat bottom fixed;
+  background-size: cover;
+}
+
+.container-wrapper {
+	width: 600px;
+	margin: 0 auto;
+}
+
+
+.tekstas {
+	padding-top: 70px;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Great Vibes', cursive;
+}
+
+
+.sveikinimas{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Great Vibes', cursive;
+}
+
+.favicon {
+	text-align: center;
+	color: black;
+}
+
+.favicon i{
+	color: black;
+}
