@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Itim');
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
   margin: 0;
@@ -53,9 +54,22 @@ body {
 	text-align: center;
 }
 
-.futeris {
+.favicon2 {
 	position: absolute;
 	bottom: 0;
 	right: 0;
+}
+
+.favicon2 i{
+	color: black;
+}
+
+
+.futeris {
+	font-size: 20px;
 	padding-right: 5px;
+	position: absolute;
+	bottom: 0;
+	left: : 0;
+	font-family: 'Raleway', sans-serif;
 }
